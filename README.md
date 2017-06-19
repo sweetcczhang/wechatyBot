@@ -42,9 +42,10 @@ python manage.py runserver 0.0.0.0:8000
 ![image](https://github.com/sweetcczhang/wechatyBot/blob/master/picture/4.png)
 
 # Result
-<div>
- <img src="https://github.com/sweetcczhang/wechatyBot/blob/master/picture/2.jpg?raw=true" style="width:300px;margin-right:30px">
- <img src="https://github.com/sweetcczhang/wechatyBot/blob/master/picture/1.jpg?raw=true" style="width:300px;">
+
+<div align="center">
+<a target="_blank" href=" "><img src="https://github.com/sweetcczhang/wechatyBot/blob/master/picture/2.jpg?raw=true" border=0 width="30%"></a>
+<a target="_blank" href=" "><img src="https://github.com/sweetcczhang/wechatyBot/blob/master/picture/1.jpg?raw=true" border=0 width="30%"></a>
 </div>
 
 
