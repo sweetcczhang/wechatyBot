@@ -38,12 +38,14 @@ cd wechatyBot
 node mybot.js
 python manage.py runserver 0.0.0.0:8000
 ```
-
-# Result
 ![image](https://github.com/sweetcczhang/wechatyBot/blob/master/picture/3.png)
 ![image](https://github.com/sweetcczhang/wechatyBot/blob/master/picture/4.png)
-![image](https://github.com/sweetcczhang/wechatyBot/blob/master/picture/2.jpg)
-![image](https://github.com/sweetcczhang/wechatyBot/blob/master/picture/1.jpg)
+
+# Result
+<div>
+ <img src="https://github.com/sweetcczhang/wechatyBot/blob/master/picture/2.jpg?raw=true" style="width:300px;margin-right:30px">
+ <img src="https://github.com/sweetcczhang/wechatyBot/blob/master/picture/1.jpg?raw=true" style="width:300px;">
+</div>
 
 
 
